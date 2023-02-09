@@ -19,7 +19,6 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/@material-ui/core@latest/es/colors/red.js"
     />
-    <title>Self Introduction</title>
   </head>
   <body>
     <div
