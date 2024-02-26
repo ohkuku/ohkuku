@@ -9,7 +9,7 @@ I'm currently enhancing pole analysis systems at Ikegps, focusing on TypeScript 
 - **Languages:** TypeScript, JavaScript
 - **Frontend:** React, Vue.js, Next.js, HTML5, Material UI
 - **Backend:** Node.js, Express, Java Spring, Koa
-- **Database & Search Engine:** ElasticSearch
+- **Database & Search Engine:** ChatGPT will help me 🤡
 - **DevOps & Cloud:** AWS, Terraform
 - **Others:** GraphQL, NestJS, Rx.js, Flutter, React Native, QT
 
